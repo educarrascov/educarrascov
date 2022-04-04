@@ -4,4 +4,4 @@ I'm an Industrial Engineer, Postgraduate Diploma in Big Data and actually a Mast
 
 📝 Write & speak about Predictive Maintenance, Range Table Design and Naval stuff.
 
-🌱 I'm learning: Deep Learning and their applications.
+🌱 I'm learning: Convolutional Neural Network and their applications.
